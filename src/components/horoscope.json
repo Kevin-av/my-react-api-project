@@ -1,0 +1,59 @@
+[
+    {
+      "sign": "Libra",
+      "message": "Tu relación pareja parece ahora un mar en  calma, Libra, pero quizá sería mejor ponerle al asunto un poquito de pasión a diario.",
+      "image_url": "images/libra.png"
+    },
+    {
+      "sign": "Taurus",
+      "message": "Una mala experiencia amorosa, Tauro, quizá está condicionándote e impide que ahora encuentres la persona ideal con quien compartir tu vida a  diario.",
+      "image_url": ""
+    },
+    {
+        "sign": "Sagitarius",
+        "message": "Una  noticia que debería alegrarte, Sagitario, puede que hoy te haga sentir incómoda.",
+        "image_url": ""
+    },
+    {
+        "sign": "Aries",
+        "message": "Tu relación pareja parece ahora un mar en  calma, Libra, pero quizá sería mejor ponerle al asunto un poquito de pasión a diario.",
+        "image_url": ""
+      },
+      {
+        "sign": "Acuario",
+        "message": "Una mala experiencia amorosa, Tauro, quizá está condicionándote e impide que ahora encuentres la persona ideal con quien compartir tu vida a  diario.",
+        "image_url": ""
+      },
+      {
+          "sign": "Cancer",
+          "message": "Una  noticia que debería alegrarte, Sagitario, puede que hoy te haga sentir incómoda.",
+          "image_url": ""
+      },
+      {
+        "sign": "Capricorn",
+        "message": "Tu relación pareja parece ahora un mar en  calma, Libra, pero quizá sería mejor ponerle al asunto un poquito de pasión a diario.",
+        "image_url": ""
+      },
+      {
+        "sign": "Gemini",
+        "message": "Una mala experiencia amorosa, Tauro, quizá está condicionándote e impide que ahora encuentres la persona ideal con quien compartir tu vida a  diario.",
+        "image_url": ""
+      },
+      {
+          "sign": "Leo",
+          "message": "Una  noticia que debería alegrarte, Sagitario, puede que hoy te haga sentir incómoda.",
+          "image_url": ""
+      }
+      ,
+      {
+        "sign": "Picis",
+        "message": "Tu relación pareja parece ahora un mar en  calma, Libra, pero quizá sería mejor ponerle al asunto un poquito de pasión a diario.",
+        "image_url": ""
+      },
+      {
+        "sign": "Virgo",
+        "message": "Una mala experiencia amorosa, Tauro, quizá está condicionándote e impide que ahora encuentres la persona ideal con quien compartir tu vida a  diario.",
+        "image_url": ""
+      }
+]
+  

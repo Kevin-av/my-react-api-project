@@ -1,0 +1,23 @@
+.horoscope-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+  
+.horoscope-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+  
+.horoscope-item h2 {
+    color: #333;
+}
+  
+.horoscope-item p {
+    color: #666;
+}  
